@@ -37,11 +37,6 @@
   <br>
   <img align="center" alt="Rafa-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg">
   <img align="center" alt="Rafa-github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg">
-  <br>
-  <br>
-  Organização
-  <br>
-  <img align="center" alt="Rafa-trello" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain-wordmark.svg">
 </div>
   
 ##
